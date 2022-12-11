@@ -1,0 +1,14 @@
+/Users/aix/Projects/Скорогудание_на_питхоне/Скорогудание_на_питхоне/obj/Debug/netcoreapp3.1/Скорогудание_на_питхоне.csproj.AssemblyReference.cache
+/Users/aix/Projects/Скорогудание_на_питхоне/Скорогудание_на_питхоне/obj/Debug/netcoreapp3.1/Скорогудание_на_питхоне.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aix/Projects/Скорогудание_на_питхоне/Скорогудание_на_питхоне/obj/Debug/netcoreapp3.1/Скорогудание_на_питхоне.AssemblyInfoInputs.cache
+/Users/aix/Projects/Скорогудание_на_питхоне/Скорогудание_на_питхоне/obj/Debug/netcoreapp3.1/Скорогудание_на_питхоне.AssemblyInfo.cs
+/Users/aix/Projects/Скорогудание_на_питхоне/Скорогудание_на_питхоне/obj/Debug/netcoreapp3.1/Скорогудание_на_питхоне.csproj.CoreCompileInputs.cache
+/Users/aix/Projects/Скорогудание_на_питхоне/Скорогудание_на_питхоне/bin/Debug/netcoreapp3.1/Скорогудание_на_питхоне
+/Users/aix/Projects/Скорогудание_на_питхоне/Скорогудание_на_питхоне/bin/Debug/netcoreapp3.1/Скорогудание_на_питхоне.deps.json
+/Users/aix/Projects/Скорогудание_на_питхоне/Скорогудание_на_питхоне/bin/Debug/netcoreapp3.1/Скорогудание_на_питхоне.runtimeconfig.json
+/Users/aix/Projects/Скорогудание_на_питхоне/Скорогудание_на_питхоне/bin/Debug/netcoreapp3.1/Скорогудание_на_питхоне.runtimeconfig.dev.json
+/Users/aix/Projects/Скорогудание_на_питхоне/Скорогудание_на_питхоне/bin/Debug/netcoreapp3.1/Скорогудание_на_питхоне.dll
+/Users/aix/Projects/Скорогудание_на_питхоне/Скорогудание_на_питхоне/bin/Debug/netcoreapp3.1/Скорогудание_на_питхоне.pdb
+/Users/aix/Projects/Скорогудание_на_питхоне/Скорогудание_на_питхоне/obj/Debug/netcoreapp3.1/Скорогудание_на_питхоне.dll
+/Users/aix/Projects/Скорогудание_на_питхоне/Скорогудание_на_питхоне/obj/Debug/netcoreapp3.1/Скорогудание_на_питхоне.pdb
+/Users/aix/Projects/Скорогудание_на_питхоне/Скорогудание_на_питхоне/obj/Debug/netcoreapp3.1/Скорогудание_на_питхоне.genruntimeconfig.cache
